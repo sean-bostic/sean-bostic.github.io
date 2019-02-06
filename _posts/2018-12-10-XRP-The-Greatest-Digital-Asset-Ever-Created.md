@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sean Bostic - Driven By Imagination"
+title: "XRP, The Internet of Value, The Rise of Digital Assets"
 date: 2018-12-10
 ---
 
