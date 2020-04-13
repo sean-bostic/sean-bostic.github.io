@@ -1,0 +1,10 @@
+- layout: left
+  name: University of Cincinnati
+  dates: 2011-2016
+  qualification: BSc Information Technology
+  quote: >
+    5 years due to co-op program
+  description: | # this will include new lines to allow paragraphs
+    Participated in Co-op program
+
+    
