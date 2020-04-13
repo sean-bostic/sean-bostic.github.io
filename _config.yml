@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
  
  The thing I love most about what I do as a career is it is such a powerful way to solve problems. That being said, I don't think software should ever replace knowledge of how a problem is solved. It should supplement knowledge and can be the greatest tool in someones toolbox.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Web App Development</mark>.
+  I am most skilled in: <mark>Python</mark> and <mark>Web App Development</mark>. I am currently focusing on using GitLab instead of GitHub due to my work having a Gitlab instance.
 
 # Projects Section
 # projects_title: Active Personal Projects
