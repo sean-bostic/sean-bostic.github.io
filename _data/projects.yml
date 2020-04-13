@@ -1,8 +1,13 @@
 - layout: top-middle
-  name: Super awesome project
-  link: test
-  github: test
+  name: JARVIS 
   quote: >
-    This is probably one of the greatest apps ever created
+    I've built a bot that resembles JARVIS from Iron Man movie series but so far it can web scrape a link I give it and read the information back to me utilizing BeautifulSoup and gTTS.
   description: | # this will include new lines to allow paragraphs
-    fadfajkldfklajdfklja theste s
+    This has become super useful with wading through documentation for the many different libraries I use. This is always a work in progress.
+
+- layout: top-middle
+  name: RaspberryPi home security camera system 
+  quote: >
+    Make use of one of the dormant Pi's I have laying around.
+  description: | # this will include new lines to allow paragraphs
+    Building a security camera system that utilizes motion detection to record along with sonar capability with Arduino board. Very fun, yet challenging.
