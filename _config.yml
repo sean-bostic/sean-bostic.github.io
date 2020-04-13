@@ -22,11 +22,13 @@ linkedin_username: seanbostic
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is <mark>Sean Bostic</mark> and I have been interested in computers since I was a child. The origin of my computing obsession was PC games such as Quake, Counterstrike, and many other early FPS games. As soon as I learned that I could increase the performance of my games by replacing components of the machine, similar to how my father who was a mechanic, could replace car parts to increase performance I was absolutely enamored. With the games I was playing that extra 10-15 frames I would gain from replacing a graphics chip was literally groundbreaking. However, my love did not stop with hardware. The bigger rabbithole was the software behind these games that really engulfed my young mind. It started with realizing exploits such as strafe jumps and ultimated with realzing how to use various mod tools to play around with game engines. Without my love of video games, I would have never had the courage to learn how to write code. 
+ Hi, my name is <mark>Sean Bostic</mark> and I have been interested in computers since I was a child. The origin of my computing obsession was PC games such as Quake, Counterstrike, and many other early FPS games. As soon as I learned that I could increase the performance of my games by replacing components of the machine, similar to how my father who was a mechanic, could replace car parts to increase performance I was absolutely enamored. 
+ 
+ However, my love did not stop with hardware, the bigger rabbithole was the software behind these games that really engulfed my young mind. It started with realizing exploits such as strafe jumps and ultimated with realzing how to use various mod tools to play around with game engines. Without my love of video games, I would have never had the courage to learn how to write code. 
  
  The thing I love most about what I do as a career is it is such a powerful way to solve problems. That being said, I don't think software should ever replace knowledge of how a problem is solved. It should supplement knowledge and can be the greatest tool in someones toolbox.
 
-  I am most skilled in: <mark>Python</mark> and <mark>web development</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Web App Development</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -42,6 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software dev, some of my other interests and hobbies are:
    - The beautiful game
+   - Blockchain, DLT, IoV
    - Olympic weightlifting
    - Aerospace History
    - Homemade rocketry
