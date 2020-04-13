@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     I work on a variety of things from Python scientific applications to DevOps overhaul. I recently have picked up the technology docker and have been pursuing implementing it as fast as possible.
 
-- layout: left
+- layout: right
   company: Citizens Bank
   link: http://epeerless.com/
   job_title: Application Developer
@@ -21,14 +21,14 @@
 - layout: left
   company: Assurex Health (Now Myriad)
   link: https://genesight.com/about-myriad-neuroscience/
-    job_title: Software Engineer
-    dates: 2015 - 2016
-    quote: >
+  job_title: Software Engineer
+  dates: 2015 - 2016
+  quote: >
      My first exposure to scientific computing that made me love solving scientific problems with software.
-    description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
       Responsible team member on streamline data analysis tool for many scientists analysing genetic readings.
   
-- layout: left
+- layout: right
   company: Seapine Software
   link: https://genesight.com/about-myriad-neuroscience/
   job_title: QA Analyst
