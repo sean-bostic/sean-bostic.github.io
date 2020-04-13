@@ -1,1 +1,0 @@
-# sean-bostic.github.io
