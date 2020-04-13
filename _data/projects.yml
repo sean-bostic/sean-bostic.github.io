@@ -11,3 +11,10 @@
     Make use of one of the dormant Pi's I have laying around.
   description: | # this will include new lines to allow paragraphs
     Building a security camera system that utilizes motion detection to record along with sonar capability with Arduino board. Very fun, yet challenging.
+
+- layout: top-middle
+  name: Crypto trading bot
+  quote: >
+    Try to make some passive money on the volitale nature of digital asset market.
+  description: | # this will include new lines to allow paragraphs
+    Utilize a lot of python and data analysis to make use of the limited API calls I get for free to make the most profits. 

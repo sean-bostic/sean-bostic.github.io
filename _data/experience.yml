@@ -1,9 +1,40 @@
 - layout: left
-  company: Peerless Technologies
+  company: Peerless Technologies | NASA PACE IV 
   link: http://epeerless.com/
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  job_title: Software Engineer
+  dates: March 2019 - PRESENT
   quote: >
-   Working at NASA
+   I really enjoy the challenges that this jobs provide on the scientific side but also the magnitude that software is used at a goverment agency.
   description: | # this will include new lines to allow paragraphs
-    Best job I have had so far
+    I work on a variety of things from Python scientific applications to DevOps overhaul. I recently have picked up the technology docker and have been pursuing implementing it as fast as possible.
+
+- layout: right
+  company: Citizens Bank
+  link: http://epeerless.com/
+  job_title: Application Developer
+  dates: 2016 - 2019
+  quote: >
+   Working for a bank in the technology sector is a super challenging and fast paced life. I did my time in FinTech and I learned a lot.
+  description: | # this will include new lines to allow paragraphs
+    I worked on a lot of .NET related code, SQL, and everything Microsoft. A major responsibility of me at this time was working on the deployments of the code to production servers. I automated a tremendous amount of this work and I believe it showed in the many successful and speedy deployments of a mammoth system.
+
+- layout: left
+  company: Assurex Health (Now Myriad)
+  link: https://genesight.com/about-myriad-neuroscience/
+    job_title: Software Engineer
+    dates: 2015 - 2016
+    quote: >
+     My first exposure to scientific computing that made me love solving scientific problems with software.
+    description: | # this will include new lines to allow paragraphs
+      Responsible team member on streamline data analysis tool for many scientists analysing genetic readings.
+  
+- layout: right
+  company: Seapine Software
+  link: https://genesight.com/about-myriad-neuroscience/
+  job_title: QA Analyst
+  dates: 2013-2015
+  quote: >
+    Used the same skills that I had developed from finding exploits in video game engines.
+  description: | # this will include new lines to allow paragraphs
+    Worked co-op into full time position of quality assurance analyst of several of the company's software products.
+      
